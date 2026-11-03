@@ -47,10 +47,6 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/zenzenzense520-bit/shanfangshan-inscription-gis">上方山碑刻 GIS</a></td>
-    <td>碑刻空间信息整理与 GIS 实习研究</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/zenzenzense520-bit/poi-business">北京 POI 商业分析</a></td>
     <td>KDE、Moran's I 与 DBSCAN 商圈识别</td>
   </tr>
